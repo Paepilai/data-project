@@ -1,6 +1,4 @@
-# 1 Database Design Project
-
-# 2 Real-Time Election System
+# 1 Real-Time Election System
 
 ## Overview
 
@@ -44,7 +42,7 @@ This project demonstrates a real-time election system that integrates data inges
 - **Enhanced Security:** Implement additional security measures for data protection.
 
 
-# 3 Covid Data Analysis & Dashboard
+# 2 Covid Data Analysis & Dashboard
 
 ### Movie Correlation using Python (Pandas, NumPy, Seaborn, Matplotlib)
 https://github.com/Paepilai/DataProject/blob/4b19b719ab171a83aa141148f92778437bfbca97/Movie%20Correlation%20Project%20v2.ipynb
@@ -52,7 +50,7 @@ https://github.com/Paepilai/DataProject/blob/4b19b719ab171a83aa141148f92778437bf
 ### Covid Dashboard using Tableau
 https://public.tableau.com/shared/NFQ9MW42Q?:display_count=n&:origin=viz_share_link
 
-# 4 CloudStream ETL
+# 3 CloudStream ETL
 
 ### Overview
 This project demonstrates a complete data engineering pipeline that integrates data ingestion, transformation, and reporting using Azure services. It showcases the end-to-end process from extracting data from an on-premise SQL Server, processing it through Azure Data Factory, Azure Databricks, and finally visualizing it with Power BI. The solution is designed to be a robust and scalable architecture suitable for real-time data processing and analytics.
