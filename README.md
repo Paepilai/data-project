@@ -1,4 +1,4 @@
-# 1 Real-Time Election System
+# 1 Election System
 
 ## Overview
 
