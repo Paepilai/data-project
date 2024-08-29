@@ -11,6 +11,8 @@ https://github.com/Paepilai/DataProject/blob/4b19b719ab171a83aa141148f92778437bf
 ### Overview
 This project demonstrates a complete data engineering pipeline that integrates data ingestion, transformation, and reporting using Azure services. It showcases the end-to-end process from extracting data from an on-premise SQL Server, processing it through Azure Data Factory, Azure Databricks, and finally visualizing it with Power BI. The solution is designed to be a robust and scalable architecture suitable for real-time data processing and analytics.
 
+![copytable-pipeline]()
+
 ### Project Components
 - **Data Source:** On-premise SQL Server Database
 - **Data Ingestion:** Azure Data Factory
