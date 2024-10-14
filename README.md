@@ -32,7 +32,7 @@ This project demonstrates a real-time election system that integrates data inges
 
 - **Real-Time Data Processing:** Implemented streaming data ingestion and processing with Kafka and Spark Streaming.
 - **Data Aggregation:** Developed logic for real-time data aggregation and enrichment.
-- **Web Application Development:** Created interactive real-time dashboards using Streamlit.
+- **Web Development:** Created interactive real-time dashboards using Streamlit.
 - **Containerization:** Deployed and managed services using Docker Compose.
 
 ## Future Enhancements
