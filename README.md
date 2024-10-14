@@ -42,7 +42,7 @@ This project demonstrates a real-time election system that integrates data inges
 - **Enhanced Security:** Implement additional security measures for data protection.
 
 
-# 2 Covid Data Analysis & Dashboard
+# 2 Data Analysis & Dashboard
 
 ### Movie Correlation using Python (Pandas, NumPy, Seaborn, Matplotlib)
 https://github.com/Paepilai/DataProject/blob/4b19b719ab171a83aa141148f92778437bfbca97/Movie%20Correlation%20Project%20v2.ipynb
