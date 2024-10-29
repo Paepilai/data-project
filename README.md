@@ -60,7 +60,11 @@ https://public.tableau.com/shared/NFQ9MW42Q?:display_count=n&:origin=viz_share_l
 ### Overview
 This project demonstrates a complete data engineering pipeline that integrates data ingestion, transformation, and reporting using Azure services. It showcases the end-to-end process from extracting data from an on-premise SQL Server, processing it through Azure Data Factory, Azure Databricks, and finally visualizing it with Power BI. The solution is designed to be a robust and scalable architecture suitable for real-time data processing and analytics.
 
-![copytable-pipeline](copytable-pipeline.png)
+![cloudstream-etl-architecture-1](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/1.png)
+![cloudstream-etl-architecture-2](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/2.png)
+![cloudstream-etl-architecture-3](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/3.png)
+![cloudstream-etl-architecture-4](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/4.png)
+
 
 ### Project Components
 - **Data Source:** On-premise SQL Server Database
