@@ -4,7 +4,10 @@
 
 This project demonstrates a real-time election system that integrates data ingestion, streaming, and visualization. The system is designed to handle voting data in real time using Python, Kafka, Spark Streaming, Postgres, and Streamlit. It showcases an end-to-end pipeline that processes votes as they are cast, aggregates the results, and displays them on a real-time dashboard.
 
-![realtime-election-architecture](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/5.png)
+![realtime-election-architecture-1](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/5.png)
+![realtime-election-architecture-2](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/6.png)
+![realtime-election-architecture-3](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/7.png)
+![realtime-election-architecture-4](https://github.com/Paepilai/data-project/blob/0aa5ab49f6ac29e67148ed39e9b5a286bc250876/Data%20Eng%20Projects/8.png)
 
 ## Project Components
 
